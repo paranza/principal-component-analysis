@@ -21,7 +21,7 @@ The project emphasises both the mathematical foundations of PCA and its practica
 
 A detailed write-up of the methodology, results, and interpretation is available in the accompanying PDF file:
 
-**[Principal_Component_Analysis_Report.pdf](PCA_Report.pdf)**
+**[Principal_Component_Analysis_Report.pdf](PCA_report.pdf)**
 
 The document provides full technical explanations, tables, and figures.
 
