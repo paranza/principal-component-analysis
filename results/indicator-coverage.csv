@@ -1,0 +1,13 @@
+"indicator","code","original_column","missing_before_filter","missing_after_filter"
+"GDP per capita","NY.GDP.PCAP.PP.KD","GDP per capita, PPP (constant 2021 international $) [NY.GDP.PCAP.PP.KD]",19,2
+"Life expectancy","SP.DYN.LE00.IN","Life expectancy at birth, total (years) [SP.DYN.LE00.IN]",8,0
+"Tertiary enrolment","SE.TER.ENRR","School enrollment, tertiary (% gross) [SE.TER.ENRR]",78,53
+"Measles immunisation","SH.IMM.MEAS","Immunization, measles (% of children ages 12-23 months) [SH.IMM.MEAS]",25,6
+"Urban population","SP.URB.TOTL.IN.ZS","Urban population (% of total population) [SP.URB.TOTL.IN.ZS]",3,0
+"CO2 emissions","EN.GHG.CO2.PC.CE.AR5","Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita) [EN.GHG.CO2.PC.CE.AR5]",15,4
+"Electricity access","EG.ELC.ACCS.ZS","Access to electricity (% of population) [EG.ELC.ACCS.ZS]",3,0
+"Internet use","IT.NET.USER.ZS","Individuals using the Internet (% of population) [IT.NET.USER.ZS]",56,45
+"Unemployment","SL.UEM.TOTL.ZS","Unemployment, total (% of total labor force) (modeled ILO estimate) [SL.UEM.TOTL.ZS]",31,11
+"Agriculture share","NV.AGR.TOTL.ZS","Agriculture, forestry, and fishing, value added (% of GDP) [NV.AGR.TOTL.ZS]",19,1
+"Industry share","NV.IND.TOTL.ZS","Industry (including construction), value added (% of GDP) [NV.IND.TOTL.ZS]",17,1
+"Inflation","FP.CPI.TOTL.ZG","Inflation, consumer prices (annual %) [FP.CPI.TOTL.ZG]",35,10

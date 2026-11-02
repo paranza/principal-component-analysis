@@ -1,0 +1,267 @@
+"name","code","missing_indicators","retained"
+"Afghanistan","AFG",1,TRUE
+"Albania","ALB",0,TRUE
+"Algeria","DZA",0,TRUE
+"American Samoa","ASM",10,FALSE
+"Andorra","AND",4,FALSE
+"Angola","AGO",0,TRUE
+"Antigua and Barbuda","ATG",2,TRUE
+"Argentina","ARG",1,TRUE
+"Armenia","ARM",0,TRUE
+"Aruba","ABW",3,TRUE
+"Australia","AUS",0,TRUE
+"Austria","AUT",0,TRUE
+"Azerbaijan","AZE",0,TRUE
+"Bahamas, The","BHS",1,TRUE
+"Bahrain","BHR",0,TRUE
+"Bangladesh","BGD",0,TRUE
+"Barbados","BRB",1,TRUE
+"Belarus","BLR",0,TRUE
+"Belgium","BEL",0,TRUE
+"Belize","BLZ",0,TRUE
+"Benin","BEN",0,TRUE
+"Bermuda","BMU",3,TRUE
+"Bhutan","BTN",0,TRUE
+"Bolivia","BOL",1,TRUE
+"Bosnia and Herzegovina","BIH",0,TRUE
+"Botswana","BWA",0,TRUE
+"Brazil","BRA",0,TRUE
+"British Virgin Islands","VGB",7,FALSE
+"Brunei Darussalam","BRN",0,TRUE
+"Bulgaria","BGR",0,TRUE
+"Burkina Faso","BFA",0,TRUE
+"Burundi","BDI",0,TRUE
+"Cabo Verde","CPV",0,TRUE
+"Cambodia","KHM",0,TRUE
+"Cameroon","CMR",0,TRUE
+"Canada","CAN",0,TRUE
+"Cayman Islands","CYM",4,FALSE
+"Central African Republic","CAF",1,TRUE
+"Chad","TCD",1,TRUE
+"Channel Islands","CHI",6,FALSE
+"Chile","CHL",0,TRUE
+"China","CHN",0,TRUE
+"Colombia","COL",0,TRUE
+"Comoros","COM",2,TRUE
+"Congo, Dem. Rep.","COD",2,TRUE
+"Congo, Rep.","COG",0,TRUE
+"Costa Rica","CRI",0,TRUE
+"Cote d'Ivoire","CIV",0,TRUE
+"Croatia","HRV",0,TRUE
+"Cuba","CUB",2,TRUE
+"Curacao","CUW",3,TRUE
+"Cyprus","CYP",0,TRUE
+"Czechia","CZE",0,TRUE
+"Denmark","DNK",0,TRUE
+"Djibouti","DJI",1,TRUE
+"Dominica","DMA",2,TRUE
+"Dominican Republic","DOM",0,TRUE
+"Ecuador","ECU",1,TRUE
+"Egypt, Arab Rep.","EGY",0,TRUE
+"El Salvador","SLV",0,TRUE
+"Equatorial Guinea","GNQ",1,TRUE
+"Eritrea","ERI",5,FALSE
+"Estonia","EST",0,TRUE
+"Eswatini","SWZ",1,TRUE
+"Ethiopia","ETH",1,TRUE
+"Faroe Islands","FRO",4,FALSE
+"Fiji","FJI",0,TRUE
+"Finland","FIN",0,TRUE
+"France","FRA",0,TRUE
+"French Polynesia","PYF",4,FALSE
+"Gabon","GAB",1,TRUE
+"Gambia, The","GMB",1,TRUE
+"Georgia","GEO",0,TRUE
+"Germany","DEU",0,TRUE
+"Ghana","GHA",0,TRUE
+"Gibraltar","GIB",8,FALSE
+"Greece","GRC",0,TRUE
+"Greenland","GRL",4,FALSE
+"Grenada","GRD",1,TRUE
+"Guam","GUM",6,FALSE
+"Guatemala","GTM",0,TRUE
+"Guinea","GIN",0,TRUE
+"Guinea-Bissau","GNB",1,TRUE
+"Guyana","GUY",1,TRUE
+"Haiti","HTI",1,TRUE
+"Honduras","HND",0,TRUE
+"Hong Kong SAR, China","HKG",1,TRUE
+"Hungary","HUN",0,TRUE
+"Iceland","ISL",0,TRUE
+"India","IND",0,TRUE
+"Indonesia","IDN",0,TRUE
+"Iran, Islamic Rep.","IRN",0,TRUE
+"Iraq","IRQ",1,TRUE
+"Ireland","IRL",0,TRUE
+"Isle of Man","IMN",7,FALSE
+"Israel","ISR",0,TRUE
+"Italy","ITA",0,TRUE
+"Jamaica","JAM",1,TRUE
+"Japan","JPN",0,TRUE
+"Jordan","JOR",0,TRUE
+"Kazakhstan","KAZ",0,TRUE
+"Kenya","KEN",0,TRUE
+"Kiribati","KIR",2,TRUE
+"Korea, Dem. People's Rep.","PRK",6,FALSE
+"Korea, Rep.","KOR",0,TRUE
+"Kosovo","XKX",6,FALSE
+"Kuwait","KWT",0,TRUE
+"Kyrgyz Republic","KGZ",0,TRUE
+"Lao PDR","LAO",0,TRUE
+"Latvia","LVA",0,TRUE
+"Lebanon","LBN",0,TRUE
+"Lesotho","LSO",0,TRUE
+"Liberia","LBR",1,TRUE
+"Libya","LBY",2,TRUE
+"Liechtenstein","LIE",5,FALSE
+"Lithuania","LTU",0,TRUE
+"Luxembourg","LUX",0,TRUE
+"Macao SAR, China","MAC",2,TRUE
+"Madagascar","MDG",0,TRUE
+"Malawi","MWI",1,TRUE
+"Malaysia","MYS",0,TRUE
+"Maldives","MDV",0,TRUE
+"Mali","MLI",0,TRUE
+"Malta","MLT",0,TRUE
+"Marshall Islands","MHL",3,TRUE
+"Mauritania","MRT",0,TRUE
+"Mauritius","MUS",0,TRUE
+"Mexico","MEX",0,TRUE
+"Micronesia, Fed. Sts.","FSM",2,TRUE
+"Moldova","MDA",0,TRUE
+"Monaco","MCO",7,FALSE
+"Mongolia","MNG",0,TRUE
+"Montenegro","MNE",1,TRUE
+"Morocco","MAR",0,TRUE
+"Mozambique","MOZ",0,TRUE
+"Myanmar","MMR",1,TRUE
+"Namibia","NAM",0,TRUE
+"Nauru","NRU",5,FALSE
+"Nepal","NPL",0,TRUE
+"Netherlands","NLD",0,TRUE
+"New Caledonia","NCL",4,FALSE
+"New Zealand","NZL",0,TRUE
+"Nicaragua","NIC",1,TRUE
+"Niger","NER",0,TRUE
+"Nigeria","NGA",0,TRUE
+"North Macedonia","MKD",0,TRUE
+"Northern Mariana Islands","MNP",9,FALSE
+"Norway","NOR",0,TRUE
+"Oman","OMN",0,TRUE
+"Pakistan","PAK",0,TRUE
+"Palau","PLW",4,FALSE
+"Panama","PAN",1,TRUE
+"Papua New Guinea","PNG",1,TRUE
+"Paraguay","PRY",1,TRUE
+"Peru","PER",0,TRUE
+"Philippines","PHL",0,TRUE
+"Poland","POL",0,TRUE
+"Portugal","PRT",0,TRUE
+"Puerto Rico","PRI",3,TRUE
+"Qatar","QAT",0,TRUE
+"Romania","ROU",0,TRUE
+"Russian Federation","RUS",0,TRUE
+"Rwanda","RWA",0,TRUE
+"Samoa","WSM",0,TRUE
+"San Marino","SMR",4,FALSE
+"Sao Tome and Principe","STP",0,TRUE
+"Saudi Arabia","SAU",0,TRUE
+"Senegal","SEN",0,TRUE
+"Serbia","SRB",1,TRUE
+"Seychelles","SYC",1,TRUE
+"Sierra Leone","SLE",1,TRUE
+"Singapore","SGP",0,TRUE
+"Sint Maarten (Dutch part)","SXM",5,FALSE
+"Slovak Republic","SVK",0,TRUE
+"Slovenia","SVN",0,TRUE
+"Solomon Islands","SLB",1,TRUE
+"Somalia","SOM",4,FALSE
+"South Africa","ZAF",0,TRUE
+"South Sudan","SSD",5,FALSE
+"Spain","ESP",0,TRUE
+"Sri Lanka","LKA",0,TRUE
+"St. Kitts and Nevis","KNA",2,TRUE
+"St. Lucia","LCA",0,TRUE
+"St. Martin (French part)","MAF",10,FALSE
+"St. Vincent and the Grenadines","VCT",0,TRUE
+"Sudan","SDN",1,TRUE
+"Suriname","SUR",1,TRUE
+"Sweden","SWE",0,TRUE
+"Switzerland","CHE",0,TRUE
+"Syrian Arab Republic","SYR",1,TRUE
+"Tajikistan","TJK",1,TRUE
+"Tanzania","TZA",1,TRUE
+"Thailand","THA",0,TRUE
+"Timor-Leste","TLS",1,TRUE
+"Togo","TGO",0,TRUE
+"Tonga","TON",1,TRUE
+"Trinidad and Tobago","TTO",1,TRUE
+"Tunisia","TUN",0,TRUE
+"Turkiye","TUR",0,TRUE
+"Turkmenistan","TKM",2,TRUE
+"Turks and Caicos Islands","TCA",6,FALSE
+"Tuvalu","TUV",5,FALSE
+"Uganda","UGA",2,TRUE
+"Ukraine","UKR",0,TRUE
+"United Arab Emirates","ARE",1,TRUE
+"United Kingdom","GBR",0,TRUE
+"United States","USA",0,TRUE
+"Uruguay","URY",0,TRUE
+"Uzbekistan","UZB",0,TRUE
+"Vanuatu","VUT",1,TRUE
+"Venezuela, RB","VEN",5,FALSE
+"Viet Nam","VNM",1,TRUE
+"Virgin Islands (U.S.)","VIR",5,FALSE
+"West Bank and Gaza","PSE",1,TRUE
+"Yemen, Rep.","YEM",3,TRUE
+"Zambia","ZMB",1,TRUE
+"Zimbabwe","ZWE",0,TRUE
+"Africa Eastern and Southern","AFE",1,TRUE
+"Africa Western and Central","AFW",1,TRUE
+"Arab World","ARB",1,TRUE
+"Caribbean small states","CSS",2,TRUE
+"Central Europe and the Baltics","CEB",1,TRUE
+"Early-demographic dividend","EAR",1,TRUE
+"East Asia & Pacific","EAS",1,TRUE
+"East Asia & Pacific (excluding high income)","EAP",1,TRUE
+"East Asia & Pacific (IDA & IBRD countries)","TEA",1,TRUE
+"Euro area","EMU",1,TRUE
+"Europe & Central Asia","ECS",1,TRUE
+"Europe & Central Asia (excluding high income)","ECA",1,TRUE
+"Europe & Central Asia (IDA & IBRD countries)","TEC",1,TRUE
+"European Union","EUU",1,TRUE
+"Fragile and conflict affected situations","FCS",2,TRUE
+"Heavily indebted poor countries (HIPC)","HPC",1,TRUE
+"High income","HIC",0,TRUE
+"IBRD only","IBD",1,TRUE
+"IDA & IBRD total","IBT",1,TRUE
+"IDA blend","IDB",1,TRUE
+"IDA only","IDX",1,TRUE
+"IDA total","IDA",1,TRUE
+"Late-demographic dividend","LTE",1,TRUE
+"Latin America & Caribbean","LCN",1,TRUE
+"Latin America & Caribbean (excluding high income)","LAC",1,TRUE
+"Latin America & the Caribbean (IDA & IBRD countries)","TLA",1,TRUE
+"Least developed countries: UN classification","LDC",1,TRUE
+"Low & middle income","LMY",1,TRUE
+"Low income","LIC",0,TRUE
+"Lower middle income","LMC",0,TRUE
+"Middle East & North Africa","MEA",1,TRUE
+"Middle East & North Africa (excluding high income)","MNA",1,TRUE
+"Middle East & North Africa (IDA & IBRD countries)","TMN",1,TRUE
+"Middle income","MIC",1,TRUE
+"North America","NAC",1,TRUE
+"Not classified","INX",12,FALSE
+"OECD members","OED",1,TRUE
+"Other small states","OSS",1,TRUE
+"Pacific island small states","PSS",1,TRUE
+"Post-demographic dividend","PST",1,TRUE
+"Pre-demographic dividend","PRE",1,TRUE
+"Small states","SST",1,TRUE
+"South Asia","SAS",1,TRUE
+"South Asia (IDA & IBRD)","TSA",1,TRUE
+"Sub-Saharan Africa","SSF",1,TRUE
+"Sub-Saharan Africa (excluding high income)","SSA",1,TRUE
+"Sub-Saharan Africa (IDA & IBRD countries)","TSS",1,TRUE
+"Upper middle income","UMC",0,TRUE
+"World","WLD",0,TRUE

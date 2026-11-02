@@ -1,0 +1,8 @@
+.R-library/
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+work/
+results/*.rds
+results/session-info.txt
